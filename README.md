@@ -1,2 +1,2 @@
 # Python-course
-Exercises from a Python course
+Exercises and notes from a Python course.
